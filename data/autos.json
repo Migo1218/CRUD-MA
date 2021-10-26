@@ -1,0 +1,21 @@
+{
+    "autos": [{
+            "id": 1,
+            "nombre": "Lamborhini Huracán",
+            "modelo": "2012",
+            "descripcion": "El Lamborghini Huracán .......",
+            "categoria": "2",
+            "imagen": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/images-s/10_10/right_M.jpg",
+            "precio": 240000
+        },
+        {
+            "nombre": "Mazda 3",
+            "marca": "Mazda",
+            "modelo": "2019",
+            "descripcion": "El Mazda 3 es un coche perteneciente al segmento C fabricado por la marca japonesa de automóviles Mazda. Se construye desde 2003 como el sucesor del Mazda 323 y se coloca entre el Mazda 2 y el Mazda 6. La primera y la segunda generación están relacionadas tecnológicamente con el Ford Focus y el Volvo S40/V50 pues comparten plataforma.",
+            "categoria": "1",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1635234777/mh9zcgspzutaonod6vkp.jpg",
+            "id": 5
+        }
+    ]
+}
